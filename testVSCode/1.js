@@ -8,7 +8,7 @@ let a = 1
  * @export
  * @param {any} a 
  */
-export function(a) {
-    name = a
-    return name
+export function b(a) {
+    name = a;
+    return name;
 }
